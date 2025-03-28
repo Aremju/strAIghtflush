@@ -1,9 +1,7 @@
 # strAIghtflush
 
 ## Description
-- Brief summary of the project (Purpose, core functionality, etc.)
-- What it does and what it can be used for.
-- Technologies used (e.g., TensorFlow, custom dataset, etc.)
+- tbd
 
 ## Table of Contents
 1. [Introduction](#introduction)
